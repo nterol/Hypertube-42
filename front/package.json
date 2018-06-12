@@ -29,7 +29,7 @@
     "konami-code": "^0.2.1",
     "live-server": "^1.2.0",
     "moment": "^2.21.0",
-    "node-sass": "4.5.3",
+    "node-sass": "^4.9.0",
     "normalize.css": "7.0.0",
     "npm": "^5.8.0",
     "rc-slider": "^8.6.1",
